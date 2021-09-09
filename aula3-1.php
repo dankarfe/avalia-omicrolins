@@ -10,16 +10,8 @@
 			</tr>
 			<tr height=70% align=center>
 				<td width=100% colspan=4>Primeiro tempo
-Com Paulinho na vaga de Matheus Cunha, que não se recuperou para a partida,<br> a seleção brasileira modificou um pouco o estilo de jogo. Manteve a pressão no campo de defesa do México e conseguiu boas oportunidades até metade da primeira etapa.
-
-.
-
-A melhor delas em ótima jogada criada de uma ponta à outra até o corta-luz de Claudinho para Guilherme Arana<br> dominar e chutar para defesa de Ochoa. O goleiro mexicano ainda defenderia cobrança de falta de Daniel Alves e chute de Antony.
-
-.
-
-Sem muita saída, o México encontrou espaços nos erros do Brasil nos minutos finais e por pouco não abriu o placar.<br> Num lance com Romo e outro, dentro da área, de Antuna, em rápido contra-ataque - após erro de Claudinho no meio.</td>
-					
+					Em 2021, os Jogos Olímpicos serão no Estádio Olímpico de Tóquio, no Japão e, se o evento não for adiado ou cancelado, acontecerá de 23 de julho a 8 de agosto. <p>
+					Já as Paralimpíadas vão começar no dia 24 de agosto.<p>
 			</tr>
 			<tr height=15% align=center>
 			<td width=20%> <img src="img/olimpiadas.jpg"  width="200" height="60"></a></td>
